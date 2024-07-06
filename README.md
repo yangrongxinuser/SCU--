@@ -1,4 +1,4 @@
-# SCU-- Network Programing
+# SCU-- Network Programming
 
 ## Description
 
